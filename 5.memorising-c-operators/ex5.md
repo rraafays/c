@@ -1,9 +1,9 @@
 # Memorising C Operators
 
 ## Arithmetic Operators
-- + add
-- - subtract
-- * multiply
+- \+ add
+- \- subtract
+- \* multiply
 - / divide
 - % modulus
 - ++ increment
@@ -12,9 +12,9 @@
 ## Relational Operators
 - == equal
 - != not equal
-- > greater than
+- \> greater than
 - < less than
-- >= greater than or equal to
+- \>= greater than or equal to
 - <= less than or equal to
 
 ## Logical Operators
@@ -29,7 +29,7 @@
 - ^ xor
 - ~ one's complement
 - << shift left
-- >> shift right
+- \>> shift right
 
 ## Assignment Operators
 - = equal
@@ -39,7 +39,7 @@
 - /= divide-equal
 - %= modulus-equal
 - <<= shift left-equal
-- >>= shift right-equal
+- \>>= shift right-equal
 - &= and-equal
 - ^= xor-equal
 - |= or-equal
@@ -48,6 +48,6 @@
 - sizeof() get the size of
 - [] array subscript
 - & address of
-- * the value of
+- \* the value of
 - -> structure dereference
 - . structure reference
